@@ -1,3 +1,5 @@
+//Comentario.
+
 using System;
 
 class Ejercicio_triangulo{
